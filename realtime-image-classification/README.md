@@ -16,7 +16,7 @@ This part was simple. I just captured sample images. It just took me 3 min for t
 Model I trained is publicly available
 `https://teachablemachine.withgoogle.com/models/uLhMYDpLz/`
 
-It can classify books, calculator and glass
+It can classify books, calculators and glasses
 
 Model can be changed to classify more
 
